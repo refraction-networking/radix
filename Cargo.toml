@@ -1,0 +1,7 @@
+[package]
+name = "radix"
+version = "0.1.0"
+authors = ["Eric Wustrow <ewust@colorado.edu>"]
+
+[dependencies]
+failure = "0.1.2"
